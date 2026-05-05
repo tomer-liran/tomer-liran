@@ -14,6 +14,12 @@ We make REST APIs natively callable from AI agents (Claude, ChatGPT, etc.) throu
 
 Built full-stack products reaching millions of users across Europe and the Middle East — from a ~2M-user B2C platform at SENSORY-MINDS to an AI-driven travel startup I presented at Google's AI Founders Connect. BSc Computer Science, Aberystwyth University. Served as a computer and network engineer in the Hellenic Navy.
 
+### Code
+
+- [Bridge CLI](https://github.com/usebridgeai/cli) — OpenAPI→MCP server generation, managed OAuth 2.1 (AGPL-3.0)
+- [Beaches of Greece](https://github.com/tomerlir/beach-atlas-greece) — AI-powered beach discovery, 200+ beaches, NLP search
+- [Grind](https://github.com/tomerlir/grind) — minimalist fitness PWA for structured strength training
+
 ### Where to find me
 
 - Building: [usebridge.ai](https://usebridge.ai)
