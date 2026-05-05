@@ -12,7 +12,7 @@ We make REST APIs natively callable from AI agents (Claude, ChatGPT, etc.) throu
 
 ### Before Bridge
 
-Built full-stack products reaching millions of users across Germany, Qatar, and Greece — from a ~2M-user B2C platform at SENSORY-MINDS to an AI-driven travel startup I presented at Google's AI Founders Connect. BSc Computer Science, Aberystwyth University. Served as a computer and network engineer in the Hellenic Navy.
+Built full-stack products reaching millions of users across Europe and the Middle East — from a ~2M-user B2C platform at SENSORY-MINDS to an AI-driven travel startup I presented at Google's AI Founders Connect. BSc Computer Science, Aberystwyth University. Served as a computer and network engineer in the Hellenic Navy.
 
 ### Where to find me
 
