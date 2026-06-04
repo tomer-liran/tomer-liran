@@ -1,14 +1,14 @@
 ## Hey, I'm Tomer 👋
 
-**CTO & Co-Founder at [Bridge](https://usebridge.ai)** — building the infrastructure layer for the agent economy.
+**CTO & Co-Founder at [Bridge](https://bridge.ls)** — an AI engineer companion for CS teams.
 
-We make REST APIs natively callable from AI agents (Claude, ChatGPT, etc.) through managed MCP servers with OAuth 2.1, credential vaults, and tenant isolation. If an AI agent needs to talk to a SaaS API securely at scale, that's what we do.
+CS teams know exactly what their customers need — a custom dashboard, a new exported field, a specific metric — but those asks usually don't make the engineering roadmap and quietly become churn. Bridge is that engineer companion: an LLM wired into your product's backend with guardrails, so a CS rep can describe a customer's ask in chat and get a working dashboard or export back without escalating to engineering.
 
 ### What I care about
 
-- **MCP & agent infrastructure** — the protocol is young, the tooling around it is even younger. I write about what we're learning.
-- **OAuth 2.1 in practice** — PKCE, PRM, credential injection, and why auth always takes 3x longer than you think.
-- **Developer experience** — simplifying the thousand little things between "hello world" and production.
+- **LLMs that ship real work into customer hands** — not chatbots, not demos.
+- **Production AI guardrails** — the boring stuff that lets an LLM safely touch a customer's backend.
+- **The DX of LLM-native internal tools** — what changes when the engineer in the room is an LLM.
 
 ### Before Bridge
 
@@ -22,10 +22,10 @@ Built full-stack products reaching millions of users across Europe and the Middl
 
 ### Where to find me
 
-- Building: [usebridge.ai](https://usebridge.ai)
-- Writing: [bridge blog](https://usebridge.ai/blog) · [X / Twitter](https://x.com/tomerlrn)
+- Building: [bridge.ls](https://bridge.ls)
+- Writing: [The CS notebook](https://bridge.ls/blog) · [X / Twitter](https://x.com/tomerlrn)
 - Professional: [LinkedIn](https://linkedin.com/in/tomer-liran)
 
 ---
 
-*Based in Frankfurt. Always happy to chat MCP, auth, or agent infrastructure — DMs open.*
+*Based in Frankfurt. Always happy to chat production AI, MCP, or LLM-native internal tools — DMs open.*
