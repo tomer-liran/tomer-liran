@@ -17,8 +17,8 @@ Built full-stack products reaching millions of users across Europe and the Middl
 ### Code
 
 - [Bridge CLI](https://github.com/usebridgeai/cli) — OpenAPI→MCP server generation, managed OAuth 2.1 (AGPL-3.0)
-- [Beaches of Greece](https://github.com/tomerlir/beach-atlas-greece) — AI-powered beach discovery, 200+ beaches, NLP search
-- [Grind](https://github.com/tomerlir/grind) — minimalist fitness PWA for structured strength training
+- [Beaches of Greece](https://github.com/tomer-liran/beach-atlas-greece) — AI-powered beach discovery, 200+ beaches, NLP search
+- [Grind](https://github.com/tomer-liran/grind) — open-source workout PWA, fork it and edit one file to match your gym
 
 ### Where to find me
 
