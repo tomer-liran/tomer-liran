@@ -14,10 +14,24 @@ CS teams know exactly what their customers need — a custom dashboard, a new ex
 
 Built full-stack products reaching millions of users across Europe and the Middle East — from a ~2M-user B2C platform at SENSORY-MINDS to an AI-driven travel startup I presented at Google's AI Founders Connect. BSc Computer Science, Aberystwyth University. Served as a computer and network engineer in the Hellenic Navy.
 
+### Featured project — Beaches of Greece
+
+[**beachesofgreece.com**](https://beachesofgreece.com) — AI-powered beach discovery for Greece: 200+ beaches with natural-language search ("a quiet sandy beach with a taverna near Heraklion"), interactive satellite maps, and editorial guides. Built with React, TypeScript, and Supabase, with a custom NLP search pipeline and SEO-driven static rendering.
+
+<table>
+  <tr>
+    <td width="50%"><img src="assets/beaches-of-greece/homepage.png" alt="Beaches of Greece — homepage" /></td>
+    <td width="50%"><img src="assets/beaches-of-greece/map.png" alt="Beaches of Greece — interactive satellite map" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/beaches-of-greece/beach.png" alt="Beaches of Greece — beach detail page" /></td>
+    <td width="50%"><img src="assets/beaches-of-greece/areas.png" alt="Beaches of Greece — browse by area" /></td>
+  </tr>
+</table>
+
 ### Code
 
 - [Bridge CLI](https://github.com/usebridgeai/cli) — OpenAPI→MCP server generation, managed OAuth 2.1 (AGPL-3.0)
-- [Beaches of Greece](https://github.com/tomer-liran/beach-atlas-greece) — AI-powered beach discovery, 200+ beaches, NLP search
 - [Grind](https://github.com/tomer-liran/grind) — open-source workout PWA, fork it and edit one file to match your gym
 
 ### Where to find me
