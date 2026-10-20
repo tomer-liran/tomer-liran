@@ -10,7 +10,7 @@
 
 ---
 
-Full-stack engineer with six years shipping production software — remote since 2021, the last year building AI products as a founder. I clarify the problem and design the architecture; AI implements; I verify every change is production-ready.
+Full-stack engineer with six years shipping production software. Remote since 2021, the last year building AI products as a founder. I clarify the problem and design the architecture; AI implements; I verify every change is production-ready.
 
 Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** in Berlin (selected from ~10,000 applicants).
 
@@ -21,7 +21,7 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
     <td width="50%" valign="top">
       <h3><a href="https://beachesofgreece.com">Beaches of Greece</a></h3>
       <p><strong>Founder</strong> · Aug 2025 – Present</p>
-      <p>Offline DeepSeek enrichment over OpenStreetMap for 900+ beaches. Free-text search parses into structured filters — LLMs stay off the request path, so every query is instant and free. Rebuilt as a statically generated React/Vite SPA (~600 pages); Google clicks <strong>113 → 1,995</strong> in three months.</p>
+      <p>Offline DeepSeek enrichment over OpenStreetMap for 900+ beaches. Free-text search parses into structured filters. LLMs stay off the request path, so every query is instant and free. Rebuilt as a statically generated React/Vite SPA (~600 pages); Google clicks <strong>113 → 1,995</strong> in three months.</p>
       <p><code>React</code> <code>Vite</code> <code>TypeScript</code> <code>DeepSeek</code> <code>OSM</code></p>
     </td>
     <td width="50%" valign="top">
@@ -35,7 +35,7 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
     <td width="50%" valign="top">
       <h3>Bridge</h3>
       <p><strong>CTO & Co-Founder</strong> · Apr 2026 – Aug 2026</p>
-      <p>Turned a company's OpenAPI spec into an access-controlled MCP server — so CS teams run exports and database actions through chat, with Zod validation, evals, retries, and fallbacks. Shipped frontend, backend, and infra with one co-founder in two months.</p>
+      <p>Turned a company's OpenAPI spec into an access-controlled MCP server so CS teams can run exports and database actions through chat, with Zod validation, evals, retries, and fallbacks. Shipped frontend, backend, and infra with one co-founder in two months.</p>
       <p><code>MCP</code> <code>OpenAPI</code> <code>Zod</code> <code>LLM evals</code> <code>TypeScript</code></p>
     </td>
     <td width="50%" valign="top">
@@ -52,24 +52,24 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
 <table>
   <tr>
     <td width="58%" valign="top">
-      <a href="https://getemil.ai"><img src="assets/emil/homepage.png" alt="Emil — newsletter ads for B2B software teams" /></a>
+      <a href="https://getemil.ai"><img src="assets/emil/homepage.png" alt="Emil: newsletter ads for B2B software teams" /></a>
     </td>
     <td width="42%" valign="top">
-      <a href="https://getemil.ai"><img src="assets/emil/og.png" alt="Emil — get paid for the newsletters you already write" /></a>
+      <a href="https://getemil.ai"><img src="assets/emil/og.png" alt="Emil: get paid for the newsletters you already write" /></a>
     </td>
   </tr>
 </table>
 
-### Bridge — OpenAPI → hosted MCP
+### Bridge · OpenAPI → hosted MCP
 
 <a href="https://github.com/usebridgeai/cli">
-  <img src="assets/bridge/homepage.png" alt="Bridge — Open your SaaS to ChatGPT and Claude" width="100%" />
+  <img src="assets/bridge/homepage.png" alt="Bridge: Open your SaaS to ChatGPT and Claude" width="100%" />
 </a>
 
 ### Beaches of Greece · [beachesofgreece.com](https://beachesofgreece.com)
 
 <a href="https://beachesofgreece.com">
-  <img src="assets/beaches-of-greece/homepage.png" alt="Beaches of Greece — homepage" width="100%" />
+  <img src="assets/beaches-of-greece/homepage.png" alt="Beaches of Greece homepage" width="100%" />
 </a>
 
 <table>
@@ -86,14 +86,14 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
 |---|---|
 | **Backend** | Node.js, TypeScript, Express, PostgreSQL, Supabase, MongoDB, Prisma, Drizzle, GraphQL, REST |
 | **AI** | Claude / OpenAI / DeepSeek APIs · agents · MCP · structured outputs (JSON mode, Zod) · evals · retries & fallbacks · Ollama |
-| **AI tools** | Claude Code, Cursor, Codex — daily |
+| **AI tools** | Claude Code, Cursor, Codex |
 | **Frontend** | React, Next.js, TanStack Start, Vite, Tailwind |
 | **Ops** | Docker, Cloudflare, custom CI/CD, Jest |
 
 ### Open source
 
-- [**Bridge CLI**](https://github.com/usebridgeai/cli) — OpenAPI → MCP server generation with managed OAuth 2.1
-- [**Grind**](https://github.com/tomer-liran/grind) — open-source workout PWA; fork it and edit one file to match your gym
+- [**Bridge CLI**](https://github.com/usebridgeai/cli): OpenAPI → MCP server generation with managed OAuth 2.1
+- [**Grind**](https://github.com/tomer-liran/grind): open-source workout PWA; fork it and edit one file to match your gym
 
 ### Earlier
 
