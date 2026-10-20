@@ -25,7 +25,7 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
       <p><code>React</code> <code>Vite</code> <code>TypeScript</code> <code>DeepSeek</code> <code>OSM</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>Emil</h3>
+      <h3><a href="https://getemil.ai">Emil</a></h3>
       <p><strong>Co-Founder</strong> · Sep 2026 – Oct 2026</p>
       <p>B2B newsletter sponsorship platform, built solo. LLM features for research briefs, outreach drafts, creator ranking, and an onboarding assistant. Benchmarked models per task; Zod + JSON mode + deterministic fallbacks for reliable output. Onboarded <strong>50 creators / 1M combined reach</strong>.</p>
       <p><code>TypeScript</code> <code>Supabase</code> <code>Postgres</code> <code>gpt-4.1-mini</code> <code>Apify</code></p>
@@ -33,7 +33,7 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://bridge.ls">Bridge</a></h3>
+      <h3>Bridge</h3>
       <p><strong>CTO & Co-Founder</strong> · Apr 2026 – Aug 2026</p>
       <p>Turned a company's OpenAPI spec into an access-controlled MCP server — so CS teams run exports and database actions through chat, with Zod validation, evals, retries, and fallbacks. Shipped frontend, backend, and infra with one co-founder in two months.</p>
       <p><code>MCP</code> <code>OpenAPI</code> <code>Zod</code> <code>LLM evals</code> <code>TypeScript</code></p>
@@ -47,7 +47,26 @@ Currently an **Entrepreneur in Residence at [Antler](https://www.antler.co/)** i
   </tr>
 </table>
 
-### Beaches of Greece — live product
+### Emil · [getemil.ai](https://getemil.ai)
+
+<table>
+  <tr>
+    <td width="58%" valign="top">
+      <a href="https://getemil.ai"><img src="assets/emil/homepage.png" alt="Emil — newsletter ads for B2B software teams" /></a>
+    </td>
+    <td width="42%" valign="top">
+      <a href="https://getemil.ai"><img src="assets/emil/og.png" alt="Emil — get paid for the newsletters you already write" /></a>
+    </td>
+  </tr>
+</table>
+
+### Bridge — OpenAPI → hosted MCP
+
+<a href="https://github.com/usebridgeai/cli">
+  <img src="assets/bridge/homepage.png" alt="Bridge — Open your SaaS to ChatGPT and Claude" width="100%" />
+</a>
+
+### Beaches of Greece · [beachesofgreece.com](https://beachesofgreece.com)
 
 <a href="https://beachesofgreece.com">
   <img src="assets/beaches-of-greece/homepage.png" alt="Beaches of Greece — homepage" width="100%" />
